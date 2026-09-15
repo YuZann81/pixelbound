@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Bound",
+  "description": "A medieval fantasy card-collection auto-battle RPG featuring 3x3 tactical formations, 5v5 pixel-art combat, and astral summoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
